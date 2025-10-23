@@ -1,0 +1,7 @@
+project_id = "nmwpurpydfoaxsvnifef"
+
+[functions.generate-meal-plan]
+verify_jwt = false
+
+[functions.generate-health-tips]
+verify_jwt = false
